@@ -14,7 +14,9 @@ No momento de um merge e que aparece um conflito temos de identificar o ficheiro
 
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
-diferenças entre eles
+diferenças entre eles.
+A diferença entre o Clone e o Fork é que o Clone cria uma copia local do repositório e o Fork cria a copia remotamente.
+
 
 
 
