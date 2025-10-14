@@ -1,6 +1,16 @@
 1 - O que são operações de “Commit”, “Push” e “Pop” efetuadas num repositório?
+o comando "commit" serve para guardar as alterações dos ficheiros antes de serem enviados para o repositório.
+o comando "push" serve para enviar os ficheiros alterados e referenciados por um commit do repositório local para o repositório remoto.
+o comando "pop" serve para enviar os ficheiros alterados para uma área temporária que pode ser eliminada a posterior.
+
+
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
+
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
 que consistem e como podem ser resolvidos esses conflitos?
+
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles
+
+
+
