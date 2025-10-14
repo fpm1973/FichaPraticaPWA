@@ -10,6 +10,8 @@ As branches vão permitir realizar desenvolvimentos ou alterações em ficheiros
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
 que consistem e como podem ser resolvidos esses conflitos?
+No momento de um merge e que aparece um conflito temos de identificar o ficheiro com o conflito. Na zona do conflito identificada por caracteres como <<<<<< >>>>>> de uma forma manual devemos corrigir. Uma vez corrido temos de gravar as alterações e voltar a adicionar o ficheiro para voltar a fazer um commit.
+
 
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as 
 diferenças entre eles
