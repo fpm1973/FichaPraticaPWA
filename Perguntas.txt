@@ -5,6 +5,8 @@ o comando "pop" serve para enviar os ficheiros alterados para uma área temporá
 
 
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
+As branches vão permitir realizar desenvolvimentos ou alterações em ficheiros sem eliminar modificações por parte de outros programadores. Funcionam como separadores.
+
 
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em 
 que consistem e como podem ser resolvidos esses conflitos?
